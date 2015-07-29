@@ -233,16 +233,16 @@ Art gave a talk about this tool at Percona Live London 2013:
 http://www.percona.com/live/mysql-conference-2013/sessions/mysql-performance-monitoring-using-statsd-and-graphite
 
 Upcoming is another session at the Percona Live Europe Amsterdam 2015 conference:
-https://www.percona.com/live/europe-amsterdam-2015/sessions/mysql-performance-monitoring-using-statsd-and-graphite
+http://www.percona.com/live/europe-amsterdam-2015/sessions/mysql-performance-monitoring-using-statsd-and-graphite
 
 Contributors
 ------------
 
-spil-jasper **no longer works on the project**
+spil-jasper *(no longer works on the project)*
 
-thijsdezoete **no longer works on the project**
+thijsdezoete *(no longer works on the project)*
 
-art-spilgames **now known as banpei-dbart**
+art-spilgames *(now known as banpei-dbart)*
 
 banpei-dbart
 
