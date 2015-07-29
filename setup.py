@@ -19,12 +19,12 @@ history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
 setup(
     name='mysql-statsd',
-    version='0.1.2',
+    version='0.1.4',
     description='Daemon that gathers statistics from MySQL and sends them to statsd.',
     long_description=readme + '\n\n' + history,
-    author='Jasper Capel, Thijs de Zoete',
-    author_email='jasper.capel@spilgames.com',
-    url='https://github.com/spilgames/mysql_statsd',
+    author='Art van Scheppingen',
+    author_email='art@dbart.net',
+    url='https://github.com/db-art/mysql-statsd',
     packages=[
         'mysql_statsd',
     ],

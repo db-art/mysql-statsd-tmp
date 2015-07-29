@@ -58,7 +58,9 @@ Usage
       -h, --help            show this help message and exit
       -c FILE, --config FILE
                             Configuration file
-      -d, --debug           Debug mode
+      -d, --debug           Prints statsd metrics next to sending them
+      --dry-run             Print the output that would be sent to statsd without
+                            actually sending data somewhere
       -f, --foreground      Dont fork main program
 
 At the moment there is also a `deamon
@@ -236,11 +238,12 @@ https://www.percona.com/live/europe-amsterdam-2015/sessions/mysql-performance-mo
 Contributors
 ------------
 
-~~spil-jasper~~
+spil-jasper **no longer works on the project**
 
-~~thijsdezoete~~
+thijsdezoete **no longer works on the project**
 
-~~art-spilgames~~
+art-spilgames **now known as banpei-dbart**
 
 banpei-dbart
 
+bnkr
